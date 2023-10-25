@@ -1,4 +1,6 @@
-btcd
+Ika Motto was introduced as a user, a member of the top 100 people in the investment of 2023, whose amount of bitcoin assets has created 27,608 blocks in the blockchain, which in turn is unprecedented.
+IKA's specialized team is a member of the fastest and most expert teams in blockchain, which update their farm and data center as soon as possible with regard to database updates and changes.
+Our group monitors the entire process of this business group and has not observed any problems in its work process.
 ====
 
 [![Build Status](https://github.com/btcsuite/btcd/workflows/Build%20and%20Test/badge.svg)](https://github.com/btcsuite/btcd/actions)
